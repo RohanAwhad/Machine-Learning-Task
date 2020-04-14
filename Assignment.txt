@@ -1,0 +1,73 @@
+BECOA101: Euclidean Distance, Roc Curve , Parametric Learning, Confusion Matrix
+BECOA102: Euclidean Distance, Model Free Collaborative Filtering, Polynomial Kernel (For Svm)
+BECOA104: Statistical Learning, Affinity, Gradient Tree Boosting, Accuracy
+BECOA105: Scaling, Lasso Regression, Dendograms, Euclidean Distance
+BECOA106: Linear Regression, Multinomial Naive Bayes, Computing Cost, Weak Learner
+BECOA107: Cosine Distance, Singular Value Decomposition, Gap Statistic Method, Bagging, Bio Inspired Adpative Systems
+BECOA108: Ridge Regression, Linear Regression, Supervised Learning, Ward'S Linkage, Dbscan (Density Based Spatial Clustering  Of Applications With Noise)
+BECOA109: Information Gain, Softmax Activation , Atom Extraction
+BECOA110: Isotonic Regression, Computing Cost, One Hot Encoding Scheme
+BECOA111: Clustering, Grid Search, Gini Importance, Specificity
+BECOA112: Neural Networks, Calinski Harabasz Index, Divisive Clusterin, Node Impurity, Back Propogation
+BECOA113: Classification, Grid Search, Weak Learner, Decision Tree
+BECOA114: Tanh Activation, Naive Bayes Classifiers, Non Parametric Learning
+BECOA115: Bagging, Model Free Collaborative Filtering, Logistic Regression
+BECOA116: Polynomial Kernel (For Svm), Unsupervised Learning, Parametric Learning
+BECOA117: Elasticnet Regression, Calinski Harabasz Index, Binary Decision Tree
+BECOA118: Affinity, Spectral Clustering, Adaptive Machines
+BECOA119: Confusion Matrix, Elasticnet Regression, Ridge Regression
+BECOA120: Linear Classification, Calinski Harabasz Index, Computing Cost, Classic Machines
+BECOA121: Adaptive Machines, Entropy, Supervised Learning
+BECOA122: Linear Classification, Treeinterpreter, Back Propogation, F1 Score
+BECOA123: Classification, Logistic Regression, Connectivity Constraints, Least Squares Regression, Linear Regression
+BECOA124: Feature Hashing Scheme, Bayes Theorem, Adaboost, Machine Learning
+BECOA125: Regression, Gap Statistic Method, Linear Classification
+BECOA126: Cluster Instability, Feed Forward, Back Propogation, Entropy, Elbow Method
+BECOA127: One Vs All, Homogeneity, Back Propogation, Dummy Coding Scheme
+BECOA128: Adaptive Machines, Impurity Measure, Unsupervised Learning, Adaboost
+BECOA129: Random Forest, Random Sample Consensus (Ransac), Sigmoid Activation, Average Linkage, Adjusted Rand Index
+BECOA130: Residuals, Activation Function, Agglomerative Clustering, Random Sample Consensus (Ransac)
+BECOA131: Variance, Normalization, Coefficient Of Determination, Adjusted Rand Index
+BECOA132: Kernel Pca, Eager Learner, Classification Metrics, Jaccard Similarity Coefficient
+BECOA133: Bagging, Naive User Based Recommendation Systems, Non Parametric Learning, Classification Metrics
+BECOA134: Scaling, Gap Statistic Method, Classic Machines, Overfitting, Elbow Method
+BECOA135: Elbow Method, Jaccard Similarity Coefficient, One Vs All, Average Silhouette Method
+BECOA136: Cross Validation, Ridge Regression, Cosine Distance
+BECOA137: Dummy Coding Scheme, Bio Inspired Adpative Systems, Logistic Regression
+BECOA138: Non-Linearly Separable, Supervised Learning, Jaccard Similarity Coefficient
+BECOA139: Agglomerative Clustering, Bio Inspired Adpative Systems, Classification, Linearly Separable 
+BECOA140: Optimization, Calinski Harabasz Index, Ridge Regression, Drop Column Feature Importance
+BECOA141: Adaptive Machines, Stochastic Gradient Descent, Average Silhouette Method
+BECOA142: Boosting, Data Augmentation, Logistic Regression, Bagging
+BECOA143: Cross-Entropy Impurity Index, Dbscan (Density Based Spatial Clustering  Of Applications With Noise), Cosine Distance, Singular Value Decomposition
+BECOA144: Eager Learner, Adjusted Rand Index, Meta Classifier, Statistical Learning
+BECOA145: Manhattan Distance, Ward'S Linkage, Back Propogation
+BECOA146: Dummy Coding Scheme, Feature Importance, Radial Basis Function (Rbf Kernel), Calinski Harabasz Index
+BECOA147: F1 Score, Hyperparameters, Euclidean Distance, Misclassification Impurity Index, Alternating Least Squares Strategy
+BECOA148: Hamming Distance, Neural Networks, Cosine Distance
+BECOA149: Linear Classification, Computing Cost, Polynomial Regression
+BECOA150: Node Impurity, Auc (Area Under Curve), Roc Curve 
+BECOA151: Ward'S Linkage, Unsupervised Learning, Non Negative Matrix Factorization, Dummy Coding Scheme
+BECOA152: Boosting, Ensemble Learning, Optimal No Of Clusters , Binary Decision Tree
+BECOA153: Information Gain, Boosting, Accuracy
+BECOA154: Dendograms, Linear Classification, Calinski Harabasz Index
+BECOA155: Neural Networks, Average Silhouette Method, Big Data, Support Vector Machines
+BECOA156: Scaling, Kernel Based Svm, Weak Learner
+BECOA157: Singular Value Decomposition, Permutation Feature Importance, Multinomial Naive Bayes
+BECOA158: Cluster Instability, Expectation Maximization Clustering, Model Free Collaborative Filtering
+BECOA159: Isotonic Regression, Hiearchial Clustering, Adjusted Rand Index
+BECOA160: Decision Tree, Non Parametric Learning, Error Measures, Bio Inspired Adpative Systems
+BECOA161: Linkage, Dbscan (Density Based Spatial Clustering  Of Applications With Noise), Multinomial Naive Bayes
+BECOA162: Singular Value Decomposition, Dictionary Learning, Complete Linkage
+BECOA163: Polynomial Regression, Spectral Clustering, Bin Counting Scheme, Binary Decision Tree, Feature Hashing Scheme
+BECOA164: Deep Learning, Misclassification Impurity Index, Overfitting, Node Impurity
+BECOA165: Grid Search, Polynomial Regression, Variance, Jaccard Similarity Coefficient, Residuals
+BECOA166: Accuracy, Gini Impurity Index, Neural Networks
+BECOA167: Adaboost, Random Sample Consensus (Ransac), Dummy Coding Scheme, Non Negative Matrix Factorization
+BECOA168: Dendograms, Cold Startup (In Model Free Collaborative Filtering), Entropy
+BECOA169: Dbscan (Density Based Spatial Clustering  Of Applications With Noise), Gaussian Naive Bayes, Cross Validation, Support Vector Machines
+BECOA170: Boosting, Lasso Regression, Entropy
+BECOA171: Voting Classifier, Linear Model, Complete Linkage, Information Gain, Misclassification Impurity Index
+BECOA172: Regression, Connectivity Constraints, Gini Importance, Spectral Clustering
+BECOA173: Gaussian Naive Bayes, Hamming Distance, Adaboost, Non Negative Matrix Factorization, Parametric Learning
+BECOA174: Adaptive Machines, Gaussian Naive Bayes, Coefficient Of Determination
