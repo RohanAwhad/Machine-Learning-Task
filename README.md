@@ -2,7 +2,7 @@
 
 ### Task
 
-* Each student will be given 5 terms.
+* Each student will be given 3 terms. (+1 if subject defaulter) and (+1 if UT fail/absent)
 * For each term student has to 
 	* Define -> the term in maximum 2 sentences. Each sentence should not have more than 8 words.(What does this mean?)
 	* Reasons -> as to why it is important. 2-3 Reasons. Each reason not more than 8 words. (Why is this important?)
@@ -12,7 +12,7 @@
 ### Keypoints
 
 * Terms are important keywords taken out from the syllabus content.
-* Each student has different set of terms. This makes it difficult for students to copy!
+* Each student has different set of terms.
 * Set is randomly generated.
 * Every answer needs to have more keywords than filler words (such as the, is, at, for, etc).
 
